@@ -88,3 +88,5 @@ Access to pages:
 
 
 Link to the deployed website: https://dev-bootcamp-yash.netlify.app/
+
+The website is deployed but I forgot to put any links of the other pages on the main page.
