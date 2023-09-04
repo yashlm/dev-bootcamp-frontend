@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+------------
+
+I have made the login and register pages.
+The dashboard page wasn't fully completed.
+Integration of frontend and backend is also missing.
+
+Access to pages:
+/login
+/register
+/dashboard
+
+![image](https://github.com/yashlm/dev-bootcamp-frontend/assets/118932941/8e71391f-cd2f-4b72-8e6e-f8229a367ba4)
+![image](https://github.com/yashlm/dev-bootcamp-frontend/assets/118932941/5d489f04-63b0-429e-82b8-2adb4b5417a6)
+![image](https://github.com/yashlm/dev-bootcamp-frontend/assets/118932941/3c420019-a79e-415c-894b-bee103dc284a)
+
+
+
+Link to the deployed website: https://dev-bootcamp-yash.netlify.app/
